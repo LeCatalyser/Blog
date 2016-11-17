@@ -1,14 +1,14 @@
-	color: turquoise;
+
+.bio
+{
 	color: yellow;
 	font-family:'Josefin Sans', sans-serif;
 	font-size: 20px;
 	text-align: right;
-.bio
+}
 .title
+{
+	color: turquoise;
+	background-color: #e0e1e3;
+}
 .twitter-center
-{
-{
-{
-}
-}
-}
